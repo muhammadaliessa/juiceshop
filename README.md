@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ad1deebd-4f9f-429e-b403-a61ebc806806)
 
 0.	use vagrant as IaC to provision two machines  over Virtual box.
 
@@ -24,6 +25,7 @@ EOF
 
 3.	validation 
  
+![image](https://github.com/user-attachments/assets/96447930-d26d-4fdd-935b-6127f1280ce1)
 
 
 
